@@ -2,6 +2,7 @@
 ## Universidad Nacional de Colombia
 
 Julián Camilo Velandia - jvelandiag@unal.edu.co
+
 William Giovanni Quevedo -wgquevedob@unal.edu.co 
 
 
