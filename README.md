@@ -1,13 +1,8 @@
 # Métodos de aprendizaje automático para la detección de factores de riesgo en el consumo de sustancias
+## Universidad Nacional de Colombia
 
-
-
-
-## Julián Camilo Velandia
-### Universidad Nacional de Colombia jvelandiag@unal.edu.co
-
-## William Giovanni Quevedo
-### Universidad Nacional de Colombia wgquevedob@unal.edu.co 
+Julián Camilo Velandia - jvelandiag@unal.edu.co
+William Giovanni Quevedo -wgquevedob@unal.edu.co 
 
 
 
